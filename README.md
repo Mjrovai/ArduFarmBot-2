@@ -31,4 +31,4 @@ Automatic Gardening System with NodeMCU and Blynk
 <li>
 <p>Historic data should be storage remotely</p></li></ul></li></ul><p>The block diagram shows the main components of the project.</p>
 <p> </p>
-<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"
+<img src=https://github.com/Mjrovai/ArduFarmBot-2/blob/master/ArduFarmBot2_Block_Diagram.png?raw=true alt="ArduFarmBot2 Block Diagram">
