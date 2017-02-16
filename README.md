@@ -30,3 +30,5 @@ Automatic Gardening System with NodeMCU and Blynk
 <ul>
 <li>
 <p>Historic data should be storage remotely</p></li></ul></li></ul><p>The block diagram shows the main components of the project.</p>
+<p> </p>
+<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"
