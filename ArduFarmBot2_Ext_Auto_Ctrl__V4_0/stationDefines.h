@@ -20,8 +20,11 @@ boolean turnOffOLED = 1;
 #define SHOW_SET_UP   30
 
 /* DHT22*/
-#define DHTPIN D3  
-#define DHTTYPE DHT22 
+//#define DHTPIN D3  
+//#define DHTTYPE DHT22 
+#define BME_SDA 4
+#define BME_SCL 3
+#define BME_ADDR 0x76
 float airHum = 0;
 float airTemp = 0;
 

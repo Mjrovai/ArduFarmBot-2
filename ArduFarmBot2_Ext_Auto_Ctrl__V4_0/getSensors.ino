@@ -5,8 +5,8 @@ void getDhtData(void)
 {
   float tempIni = airTemp;
   float humIni = airHum;
-  airTemp = dht.readTemperature();
-  airHum = dht.readHumidity();
+  airTemp = bme.readTemperature();
+  airHum = bme.readHumidity();
   if (isnan(airHum) || isnan(airTemp))   // Check if any reads failed and exit early (to try again).
   {
     Serial.println("Failed to read from DHT sensor!");
