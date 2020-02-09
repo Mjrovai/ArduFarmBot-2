@@ -37,12 +37,11 @@ SimpleTimer timer;
 /* OLED */
 #include <ACROBOTIC_SSD1306.h> // library for OLED: SCL ==> D1; SDA ==> D2
 #include <SPI.h>
-#include <Wire.h>
 
 /* DHT22*/
 //#include "DHT.h"
 //DHT dht(DHTPIN, DHTTYPE);
-#include <Wire>
+#include <Wire.h>
 #include <Adafruit_BME280.h>
 Adafruit_BME280 bme;
 
