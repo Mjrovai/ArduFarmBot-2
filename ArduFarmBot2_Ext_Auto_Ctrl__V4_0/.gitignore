@@ -1,4 +1,4 @@
 # Ignore these files
-stationCredentials.h
+secret.h
 
 .vscode/

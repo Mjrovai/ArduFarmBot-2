@@ -19,7 +19,7 @@
  ********************************************************************************************************************************/
 #define SW_VERSION "   SW Ver. 4.0" // SW version will appears at innitial LCD Display
 #include "stationDefines.h"       // Project definitions
-#include "stationCredentials.h"
+#include "secret.h"
 
 /* ESP & Blynk */
 #define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
